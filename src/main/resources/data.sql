@@ -1,0 +1,2 @@
+INSERT INTO COMPLAINTS (complainant_name, phone_number, complaint_location, issue, description, date, image_url)
+VALUES ('Dheemanth', '100', 'Kumarswamy layout', 'potholes issue', 'pothole description', '2001-10-01', 'imageUrl.com');
